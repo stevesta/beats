@@ -13,7 +13,9 @@
 x-pack/functionbeat/pkg
 x-pack/elastic-agent/data
 x-pack/elastic-agent/pkg/agent/operation/tests/downloads
-
+/python-filebeat/build
+/python-filebeat/dist
+/python-filebeat/filebeat.egg-info
 # Files
 .DS_Store
 /beats.iml

@@ -1,0 +1,1 @@
+light wrapper around filebeat to call in once mode
